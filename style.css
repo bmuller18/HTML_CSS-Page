@@ -1,0 +1,54 @@
+html{
+    height: auto;
+    min-height: 100%;
+}
+body{
+    background: linear-gradient(#f72585,#5C0E31);
+}
+h1{
+    text-align: center;
+    color: #c53e8f;
+    text-shadow: -4px 4px 8px #BD2F40;
+}
+.topdiv{
+    width: 100%;
+    height: 40%;
+    
+}
+.logoHTML{
+    width: 10%;
+    height: 20%;
+    margin: auto;
+    border: 3px solid #FF6C40;
+    position: clip;
+    padding: 15px;
+    margin-left: auto;
+    text-align: center;
+    background: repeating-linear-gradient(#5C2717, #873922);  
+    box-shadow: 0px 0px 20px 3px #5C2717;
+    border-radius: 20%;
+}
+.logoCSS{
+    width: 10%;
+    height: 20%;
+    margin: auto;
+    border: 3px solid #264de4;
+    position: left;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    background: repeating-linear-gradient(#0000C2, #0000E6);
+    box-shadow: 0px 0px 20px 3px #5C2717;
+    border-radius: 20%;
+}
+.imgtitle{
+    color: #FF6C40;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 2px 0px 20px #5C0E31;
+}
+img{
+    width: 80%;
+}
